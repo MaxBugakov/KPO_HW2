@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Овощной салат",
+        "quantity": 250,
+        "quantityDimension": "гр",
+        "cost": 300,
+        "cookingTime": 5
+    },
+    {
+        "name": "Стейк",
+        "quantity": 400,
+        "quantityDimension": "гр",
+        "cost": 1000,
+        "cookingTime": 10
+    },
+    {
+        "name": "Борщ",
+        "quantity": 300,
+        "quantityDimension": "мл",
+        "cost": 800,
+        "cookingTime": 7
+    },
+    {
+        "name": "Устрицы",
+        "quantity": 7,
+        "quantityDimension": "шт",
+        "cost": 1800,
+        "cookingTime": 5
+    },
+    {
+        "name": "Мороженное",
+        "quantity": 100,
+        "quantityDimension": "гр",
+        "cost": 550,
+        "cookingTime": 20
+    }
+]
